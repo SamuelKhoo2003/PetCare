@@ -3,7 +3,7 @@ import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDQ0cAZLEpIsmM3EoSdpOlX1U185U48zuY",
+  apiKey: "REMOVED",
   authDomain: "petcare-2025.firebaseapp.com",
   databaseURL: "https://petcare-2025-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "petcare-2025",
