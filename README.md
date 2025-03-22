@@ -1,6 +1,6 @@
 # Embedded-Systems
 
-![PetCare Demo](Website\src\images\petcare-mockup-2.png)
+![PetCare Demo](Website/src/images/petcare-mockup-2.png)
 
 ## Overview
 This project was developed as part of the 2025 Embedded Systems module for the Department of Electrical Engineering at Imperial College London. The project consists of three main components: a mobile app, a Raspberry Pi setup, and a website. Each component plays a crucial role in the overall functionality of the system.
